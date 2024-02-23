@@ -77,9 +77,7 @@ print("RMSE = ",rmse)
 ![Screenshot 2024-02-20 103319](https://github.com/Hariveeraprasad-2006/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/145049988/21fbef8c-faa4-41b6-9947-2d9f1d3fcab4)
 ## Value of MSE,MAE & RMSE
 
-![Screenshot 2024-02-20 103619](https://github.com/Hariveeraprasad-2006/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/145049988/50f33b3c-2313-4509-909d-9240c0671b9b)
-![Screenshot 2024-02-20 103801](https://github.com/Hariveeraprasad-2006/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/145049988/a9cf92e6-b548-4393-9617-4278e46a4f80)
-![image](https://github.com/Hariveeraprasad-2006/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/145049988/be6053cf-0ea8-4aa4-8835-311c6f6f9c3d)
+![image](https://github.com/lathishlathish/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/120359170/993aa8d6-1448-4b58-b4fe-dfd85fc52009)
 
 # Result:
 Thus the program to implement the simple linear regression model for predicting the marks scored is written and verified using python programming.
